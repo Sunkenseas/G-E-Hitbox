@@ -1,0 +1,6 @@
+hitbox2代顶板3mm                            2件
+hitbox2代封闭堆叠层3mm                  1件
+hitbox2代限位板树莓派留空4.5mm     1件
+hitbox2代pcb同层堆叠1.6mm            1件
+hitbox2代托底板4mm                         1件
+hitbox2代底板3mm                             1件
