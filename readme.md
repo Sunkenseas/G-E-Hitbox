@@ -6,3 +6,6 @@
 
 ![hitbox实物照片](./img/hitbox实物照片.jpg)
 
+pcb文件：
+
+ https://oshwhub.com/sunkengreensea/greensea-elster-hitbox
